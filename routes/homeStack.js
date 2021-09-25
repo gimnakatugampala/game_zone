@@ -5,10 +5,10 @@ import ReviewDetails from "../screens/ReviewDetails";
 
 const screens = {
     Home:{
-        screen: Home
+        screen:Home
     },
     ReviewDetails:{
-        screen: ReviewDetails
+        screen:ReviewDetails
     }
 }
 
