@@ -1,5 +1,5 @@
 import React from 'react';
-import Navigator from './routes/homeStack'
+import Navigator from './routes/drawer'
 
 // import Home from './screens/Home';
 
